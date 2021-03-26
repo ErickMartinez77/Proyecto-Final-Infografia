@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="cofre" size="1.000000 0.577933" />
+    <ImageTarget name="cod" size="1.000000 1.000000" />
+    <ImageTarget name="navidad" size="1.000000 0.980801" />
+    <ImageTarget name="deportivo" size="1.000000 0.615238" />
+    <ImageTarget name="calavera" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
